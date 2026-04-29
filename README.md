@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Daemoncodes69
-- 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... java
-- 💞️ I’m looking to collaborate on ... java projects
+- 👋 Hi, I’m @Daemoncodes
+- 👀 I’m interested in ... coding and video editing
+- 💞️ I’m looking to collaborate on ... java projects, editing projects
 - 📫 How to reach me ... my email
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
