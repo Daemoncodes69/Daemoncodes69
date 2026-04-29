@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Daemoncodes
+- 👋 Hi, I’m @NipunGupta
 - 👀 I’m interested in ... coding and video editing
 - 💞️ I’m looking to collaborate on ... java projects, editing projects
 - 📫 How to reach me ... my email
